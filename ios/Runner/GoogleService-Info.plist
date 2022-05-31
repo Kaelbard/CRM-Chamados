@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>412627976573-qq6fb4ldv71vnl91ifg4sn1n6c8gjth6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.412627976573-qq6fb4ldv71vnl91ifg4sn1n6c8gjth6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>412627976573-338fvp8lnaskqn61sjqoss5e2bvhhseh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFrbFKB5DQJTF9w2yAlQieZ26GRFSOmKs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>412627976573</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.crmchamados</string>
+	<key>PROJECT_ID</key>
+	<string>crm---chamados-ti</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crm---chamados-ti.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:412627976573:ios:6b62b1f2841d218977cc14</string>
+</dict>
+</plist>

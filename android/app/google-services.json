@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "412627976573",
+    "project_id": "crm---chamados-ti",
+    "storage_bucket": "crm---chamados-ti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412627976573:android:1f407f806620015a77cc14",
+        "android_client_info": {
+          "package_name": "com.mycompany.crmchamados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412627976573-338fvp8lnaskqn61sjqoss5e2bvhhseh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.crmchamados",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "412627976573-p7nh6ltvtv1ho4cqiusqddlfntuj310f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD99NnpA6WEpGRfBf4KcmXK__CO00cAtXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412627976573-p7nh6ltvtv1ho4cqiusqddlfntuj310f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412627976573-qq6fb4ldv71vnl91ifg4sn1n6c8gjth6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.crmchamados"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
